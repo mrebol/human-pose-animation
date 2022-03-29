@@ -24,7 +24,7 @@ This is the format for a file with 10 frames. The timesteps are separated by lin
 .
 .
 .
-<t10_joint0_x_float> <t10_joint1_y_float> <t10_joint0_z_float> ... <t10_joint48_x_float> <t10_joint48_y_float> <t10_joint48_z_float>   
+<t10_joint0_x_float> <t10_joint0_y_float> <t10_joint0_z_float> ... <t10_joint48_x_float> <t10_joint48_y_float> <t10_joint48_z_float>   
 ```
 The 49 joints appear in the following order:
 + 0 neck
