@@ -2,9 +2,9 @@
 
 
     
-![Human pose animations](https://github.com/mrebol/Gesture-Generation-From-Speech/blob/main/media/human-pose-gestures.gif)
+![Human pose animation](https://github.com/mrebol/human-pose-animation/blob/main/media/human-pose-animation.gif)
 
-*Human pose animations*
+*Human pose animation*
 
 
 ## Dependencies
