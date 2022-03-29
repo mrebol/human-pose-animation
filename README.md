@@ -35,4 +35,4 @@ The 49 joints have the following order:
 Note: Wrist joints 6==7 and 3==28.
 
 The hand joints have the following order:
-
+![Hand joints](https://github.com/mrebol/human-pose-animation/blob/master/media/hand-joints.png)
