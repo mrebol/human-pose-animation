@@ -157,7 +157,7 @@ public abstract class BoneControllerBase : MonoBehaviour
 		
 		boneAngle = new Dictionary<string, float>();
 		inputBones = new List<string>(BoneList.Keys);
-		foreach (string bone in inputBones)
+		foreach(string bone in inputBones)
 		{
 			boneAngle[bone] = 0;
 			NormalizeBone[bone] = new Vector3(0,0,0);
