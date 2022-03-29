@@ -2,9 +2,9 @@
 
 
     
-![A: Generated from our model vs B: Gestures extracted from video](https://github.com/mrebol/Gesture-Generation-From-Speech/blob/main/media/ours-vs-video.gif)
+![Human pose animation](https://github.com/mrebol/human-pose-animation/blob/main/media/human-pose-animation.gif)
 
-*Human pose animations*
+*Human pose animation*
 
 
 ## Dependencies
