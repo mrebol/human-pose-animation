@@ -72,7 +72,7 @@ public abstract class BoneControllerBase : MonoBehaviour
 	
 	protected int currentFrameNr = 0;
 	protected float startTime;
-	protected Vector3 skeletonOffset = new Vector3(-0.5f, 0.8f, 0); // -1..right, 0.8 up
+	protected Vector3 skeletonOffset = new Vector3(-0.8f, 1.5f, 0); // -1..right, 0.8 up
 	protected string[] fingers4 = {"Index", "Middle", "Ring", "Little"};
 	protected string[] hands = {"Left", "Right"};
 	protected string[] fingerBones = {"Proximal", "Intermediate", "Distal"};
