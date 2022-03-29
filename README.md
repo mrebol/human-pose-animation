@@ -26,7 +26,7 @@ This is the format for a file with 10 frames. The timesteps are separated by lin
 .
 <t10_joint0_x_float> <t10_joint1_y_float> <t10_joint0_z_float> ... <t10_joint48_x_float> <t10_joint48_y_float> <t10_joint48_z_float>   
 ```
-The 49 joints have the following order:
+The 49 joints appear in the following order:
 + 0 neck
 + 1-3 right arm shoulder to wrist
 + 4-6 left arm shoulder to wrist
@@ -35,5 +35,5 @@ The 49 joints have the following order:
 
 Note: Wrist joints 6==7 and 3==28.
 
-The hand joints have the following order:
+The hand joints appear in the following order:
 ![Hand joints](https://github.com/mrebol/human-pose-animation/blob/master/media/hand-joints.png)
