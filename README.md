@@ -2,7 +2,7 @@
 
 
     
-![Human pose animation](https://github.com/mrebol/human-pose-animation/blob/main/media/human-pose-animation.gif)
+![Human pose animation](https://github.com/mrebol/human-pose-animation/blob/master/media/human-pose-animation.gif)
 
 *Human pose animation*
 
