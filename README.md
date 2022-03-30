@@ -1,4 +1,4 @@
-# Human Pose Animation on UMA 2 Character in Unity
+# Human Pose Animation on UMA 2 Characters in Unity
 
 This Unity project animates an UMA 2 character given human pose input.
     
